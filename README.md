@@ -1,4 +1,6 @@
 # Unspoken by Team Signcraft
+![VR ASL Demo](VR_ASL_Demo.gif)
+
 A mixed-reality WebXR application to learn American Sign Language (ASL) with just your virtual reality headset and a web browser!
 
 ## Access Application
