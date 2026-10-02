@@ -2,7 +2,7 @@
 
 A mixed-reality WebXR application to learn American Sign Language (ASL) with just your virtual reality headset and a web browser!
 
-Built in 3 days at the first Meta & AWS WebXR Hackathon, hosted at Amazon's Seattle office (November 14–16, 2023). [Watch the event recap](https://www.youtube.com/watch?v=_oH8yu3IwOE).
+Built in 3 days at the first Meta & AWS WebXR Hackathon, hosted at Amazon's Seattle office (November 14–16, 2023).
 
 ![VR ASL Demo](VR_ASL_Demo.gif)
 
